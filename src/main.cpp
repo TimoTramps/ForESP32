@@ -4,9 +4,9 @@
 #include <DHT.h>
 #include <ArduinoJson.h>
 
-#define WIFI_SSID     "TVOJ WIFI"
-#define WIFI_PASS     "TVOJE GESLO"
-#define MQTT_BROKER   "TVOJ IP"
+#define WIFI_SSID     "A1-1864B0"
+#define WIFI_PASS     "RPEBCR4AT7"
+#define MQTT_BROKER   "192.168.1.215"
 #define MQTT_PORT     1883
 #define MQTT_TOPIC    "ism/dht22"
 #define MQTT_CLIENT   "esp32-dht11"
